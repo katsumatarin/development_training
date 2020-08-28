@@ -1,0 +1,2 @@
+# development_training
+勝又凛が開発の練習をするためのリポジトリ
